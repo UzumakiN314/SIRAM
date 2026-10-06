@@ -41,3 +41,5 @@ Sigue estos pasos para clonar y levantar el proyecto en tu entorno de desarrollo
 1. **Clona el repositorio:**
    ```bash
    git clone [https://github.com/UzumakiN314/SIRAM.git](https://github.com/UzumakiN314/SIRAM.git)
+
+2. **Prueba de repositorio:**
